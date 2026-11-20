@@ -1,5 +1,6 @@
 # lenox
 
+```
 accountsservice 26.27.3-1
 amd-ucode 20261019-1
 appimagelauncher-beta-bin 3.0.0_beta_3-1
@@ -60,3 +61,4 @@ xdg-desktop-portal-gnome 51.0-2
 xdg-utils 1.2.1-2
 xorg-xwayland 24.1.15-1
 xwayland-satellite 0.8.3-1
+```
